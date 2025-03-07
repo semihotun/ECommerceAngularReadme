@@ -37,6 +37,7 @@ TextEditör: Quill Js kullandım
 Checkbox,Selectbox,Spinner,Texteditör,Textarea ve diğerleri
 
 <h3>🛒 E-Ticaret Özellikleri:</h3>
+Nots:Refresh Token süresi 10dk olarak belirlenmiştir Admin ve User için
 
 <h3>Admin Panel</h3>
 
