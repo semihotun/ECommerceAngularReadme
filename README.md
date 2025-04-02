@@ -2,9 +2,8 @@
 
 <h3>🏗️ Mimari Özellikler:</h3>
 
-Microservices mimarisi ve API Gateway (Ocelot) ile modüler yapı
+Microservices mimarisi ve API Gateway (Ocelot)
 Carter ile Minimal API kullanımı
-Domain Events ile modüler tasarım
 .NET 9 backend, Entity Framework, MediatR ve CQS pattern
 Angular + Capacitor (Ionic) ile hem web hem mobil uyumlu ön yüz
 Grid, Selectbox gibi özel UI bileşenleri
@@ -14,11 +13,10 @@ Google Cloud üzerinde NGINX ile deployment
 
 Kafka ve Debezium ile Outbox Pattern kullanarak veri tutarlılığı
 SignalR ile gerçek zamanlı bildirim ve veri güncelleme sistemi
-RabbitMQ, MassTransit ve gRPC ile servisler arası iletişim
-Şu an MSSQL kullanıyor yakında PostgreSQL'e geçiş sağlıyıcam
-Elasticsearch ile güçlü arama özellikleri
+RabbitMQ, MassTransit ve GRPC ile servisler arası iletişim
+Veritabanı olarak PostgreSQL MSSQL Elasticsearch 
 Consul ile Service Discovery
-Redis ile Cache stratejileri
+Distrubed Redis ile Cache stratejisi
 Polly ile hata toleransı
 Hangfire ile arka plan görev planlaması
 Jenkins ile CI/CD
